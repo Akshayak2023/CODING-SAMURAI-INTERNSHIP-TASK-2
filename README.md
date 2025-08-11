@@ -1,0 +1,2 @@
+# CODING-SAMURAI-INTERNSHIP-TASK-2
+it is a 2 task 
